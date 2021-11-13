@@ -16,7 +16,7 @@ All the links to my FreeCodeCamp project files
   5. Cash Register
 
 **[Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries)**
-  1. Random Quote Machine
+  1. [Random Quote Machine](https://codepen.io/LuLucii/pen/wvqEqWo?editors=1100)
   2. Markdown Previewer
   3. Drum Machine
   4. JavaScript Caluator
