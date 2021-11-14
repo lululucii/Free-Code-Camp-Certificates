@@ -9,11 +9,11 @@ All the links to my FreeCodeCamp project files
   5. Personal Portfolio Page
 
 **[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)**
-  1. Palindrome Checker
-  2. Roman Numeral Converter
-  3. Caesars Cipher
-  4. Telephone Number Validator
-  5. Cash Register
+  1. [Palindrome Checker](https://github.com/lululucii/Free-Code-Camp-Certificates/blob/main/JavaScript%20Algorithms%20and%20Data%20Structure/1_Palindrome-Checker.js)
+  2. [Roman Numeral Converter](https://github.com/lululucii/Free-Code-Camp-Certificates/blob/main/JavaScript%20Algorithms%20and%20Data%20Structure/2_Roman-Numeral-Converter.js)
+  3. [Caesars Cipher](https://github.com/lululucii/Free-Code-Camp-Certificates/blob/main/JavaScript%20Algorithms%20and%20Data%20Structure/3_Caesars-Cipher.js)
+  4. [Telephone Number Validator](https://github.com/lululucii/Free-Code-Camp-Certificates/blob/main/JavaScript%20Algorithms%20and%20Data%20Structure/4_Telephone-Number-Validator.js)
+  5. [Cash Register](https://github.com/lululucii/Free-Code-Camp-Certificates/blob/main/JavaScript%20Algorithms%20and%20Data%20Structure/5_Cash-Register.js)
 
 **[Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries)**
   1. [Random Quote Machine](https://codepen.io/LuLucii/pen/wvqEqWo?editors=1100)
