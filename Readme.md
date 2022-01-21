@@ -17,9 +17,9 @@ All the links to my FreeCodeCamp project files
 
 **[Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries)**
   1. [Random Quote Machine](https://codepen.io/LuLucii/pen/wvqEqWo?editors=1100)
-  2. Markdown Previewer
-  3. Drum Machine
-  4. JavaScript Caluator
+  2. [Markdown Previewer](https://codepen.io/LuLucii/pen/xxXypRb)
+  3. [Drum Machine](https://codepen.io/LuLucii/pen/RwLzZOq)
+  4. [JavaScript Caluator]
   5. Build a 25 + 5 Clock
 
 **[Data Visualization](https://www.freecodecamp.org/learn/data-visualization)**
